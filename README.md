@@ -4,7 +4,7 @@ Plugin for images adding filter functionality.
 
 ## Getting Started
 
-Вownload the index.js file, connect it into your html file. Set the "filter" attribute to those pictures to which you want to add filter functionality. Example:
+Download the index.js file, connect it into your html file. Set the "filter" attribute to those pictures to which you want to add filter functionality. Example:
 
 ```html
 <img class="img" src="./1.jpg" alt="img" filter />
